@@ -28,7 +28,7 @@ Implement fixed-size one-dimensional arrays:
         assert len(index)==1
         assert isinstance(index
         
-        SORRY -- will look at what others have done.
+        SORRY -- will look at what others have done
         
         
 2.  Other instructions that you design get and set array elements by index.
